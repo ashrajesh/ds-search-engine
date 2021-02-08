@@ -1,0 +1,416 @@
+
+
+
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+              Welcome to the Covid-19 Search Engine!
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+                   What would you like to do?
+            _________________________________________
+           |  1. Search Database                     |
+           |  2. Load Index From Disk                |
+           |  3. Parse & Populate Database / Index   |
+           |  4. Clear Index                         |
+           |  5. Save Index to Disk                  |
+           |  6. Quit                                |
+            _________________________________________
+
+  Select an option:3
+
+Loading Index...
+Parsing JSON Files...
+Total Number of Words: 204884
+Total Number of Authors: 30308
+Inserting Words into AVL Tree...
+Done inserting.
+
+                   What would you like to do?
+            _________________________________________
+           |  1. Search Database                     |
+           |  2. Load Index From Disk                |
+           |  3. Parse & Populate Database / Index   |
+           |  4. Clear Index                         |
+           |  5. Save Index to Disk                  |
+           |  6. Quit                                |
+            _________________________________________
+
+  Select an option:5
+
+
+Saving Indexes to Disk...
+AVL Tree Saved.
+Hash Table Saved.
+Index saved to disk.
+
+                   What would you like to do?
+            _________________________________________
+           |  1. Search Database                     |
+           |  2. Load Index From Disk                |
+           |  3. Parse & Populate Database / Index   |
+           |  4. Clear Index                         |
+           |  5. Save Index to Disk                  |
+           |  6. Quit                                |
+            _________________________________________
+
+  Select an option:7
+
+*** Search Engine Stats ***
+Total Number of Words: 204884
+Total Number of Authors: 30308
+Total Number of Documents Parsed: 11995
+Average Number of Words Indexed per Article: 17
+Average Number of Authors per Article: 2
+Top 50 Most Popular Words in Database:
+    Word      Freq
+    ----------------
+    cell      314872
+    infect    248227
+    virus     217755
+    protein   168736
+    studi     165152
+    viral     112188
+    express   104621
+    activ     103225
+    result    102589
+    patient   102416
+    diseas    93537
+    data      93155
+    sequenc   92611
+    figur     92509
+    gene      87666
+    sampl     86213
+    human     85453
+    case      83868
+    group     80465
+    time      79749
+    effect    79396
+    detect    78959
+    includ    77250
+    fig       77158
+    respons   76694
+    report    76345
+    increas   75207
+    signific  74837
+    level     73161
+    specif    72531
+    control   72488
+    high      71762
+    rna       71560
+    model     71204
+    test      70101
+    number    68896
+    show      68788
+    day       64147
+    analysi   62976
+    vaccin    62761
+    base      62475
+    immun     61834
+    observ    61205
+    compar    59872
+    antibodi  59709
+    posit     59056
+    addit     56997
+    mice      55287
+    type      55220
+    cov       54286
+
+                   What would you like to do?
+            _________________________________________
+           |  1. Search Database                     |
+           |  2. Load Index From Disk                |
+           |  3. Parse & Populate Database / Index   |
+           |  4. Clear Index                         |
+           |  5. Save Index to Disk                  |
+           |  6. Quit                                |
+            _________________________________________
+
+  Select an option:1
+
+Please enter search query:
+and malaysia bats not pigs author johnson
+
+Article 1:
+Rapid Therapeutic Recommendations in the Context of a Global Public Health Crisis using Translational Bioinformatics App
+roaches: A proof-of-concept study using Nipah Virus Infection
+
+Article 2:
+Global patterns in coronavirus diversity
+
+Article 3:
+Predicting wildlife reservoirs and global vulnerability to zoonotic Flaviviruses
+
+
+Select an Article Number to Preview (0 to exit):2
+
+Title: Global patterns in coronavirus diversity
+Research Paper ID: ee254e8dd94c816c9b5cd80c56b4b7e07eb5aa03
+Authors: Simon Anthony  Christine Johnson  Denise Greig  Sarah Kramer  Xiaoyu Che  Heather Wells  Allison Hicks  Damien
+Joly  Nathan Wolfe  Peter Daszak  William Karesh  W Lipkin  Stephen Morse  Predict Consortium  Jonna Mazet  Tracey Golds
+tein
+Date of Publication: 6/12/2017
+Publishing Journal: Virus Evol
+Preview:
+Since the emergence of Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV) and Middle East Respiratory Syndrom Coro
+navirus (MERS-CoV) it has become increasingly clear that bats are important reservoirs of CoVs. Despite this, only 6% of
+ all CoV sequences in GenBank are from bats. The remaining 94% largely consist of known pathogens of public health or ag
+ricultural significance, indicating that current research effort is heavily biased towards describing known diseases rat
+her than the 'pre-emergent' diversity in bats. Our study addresses this critical gap, and focuses on resource poor count
+ries where the risk of zoonotic emergence is believed to be highest. We surveyed the diversity of CoVs in multiple host
+taxa from twenty countries to explore the factors driving viral diversity at a global scale. We identified sequences rep
+resenting 100 discrete phylogenetic clusters, ninety-one of which were found in bats, and used ecological and epidemiolo
+gic analyses to show that patterns of CoV diversity correlate with those of bat diversity. This cements bats as the majo
+r evolutionary reservoirs and ecological drivers of CoV diversity. Co-phylogenetic reconciliation analysis was also used
+ to show that host switching has contributed to CoV evolution, and a preliminary analysis suggests that regional variati
+on exists in the dynamics of this process. Overall our study represents a model for exploring global viral diversity and
+ advances our fundamental understanding of CoV biodiversity and the potential risk factors associated with zoonotic
+
+Select an Article Number to Preview (0 to exit):0
+
+                   What would you like to do?
+            _________________________________________
+           |  1. Search Database                     |
+           |  2. Load Index From Disk                |
+           |  3. Parse & Populate Database / Index   |
+           |  4. Clear Index                         |
+           |  5. Save Index to Disk                  |
+           |  6. Quit                                |
+            _________________________________________
+
+  Select an option:1
+
+Please enter search query:
+or malaysia zoonotic not pigs
+
+Article 1:
+Department of Public Health
+
+Article 2:
+One Health research and training and government support for One Health in South Asia
+
+Article 3:
+Integrated biological-behavioural surveillance in pandemic-threat warning systems
+
+Article 4:
+Zoonotic disease research in East Africa
+
+Article 5:
+Successes and challenges of the One Health approach in Kenya over the last decade
+
+Article 6:
+The Vietnam Initiative on Zoonotic Infections (VIZIONS): A Strategic Approach to Studying Emerging Zoonotic Infectious D
+iseases
+
+Article 7:
+Larger viral genome size facilitates emergence of zoonotic diseases
+
+Article 8:
+A Quantitative Prioritisation of Human and Domestic Animal Pathogens in Europe
+
+Article 9:
+viruses Bat Research Networks and Viral Surveillance: Gaps and Opportunities in Western Asia
+
+Article 10:
+microorganisms Zika Outbreak Emergency Preparedness and Response of Malaysian Private Healthcare Professionals: Are They
+ Ready?
+
+Article 11:
+Wildlife Trade and Human Health in Lao PDR: An Assessment of the Zoonotic Disease Risk in Markets
+
+Article 12:
+Emerging viral threats in Gabon: health capacities and response to the risk of emerging zoonotic diseases in Central Afr
+ica
+
+Article 13:
+Quantifying transmission of emerging zoonoses: 3 Using mathematical models to maximize the value of surveillance data 4
+5 6 7
+
+Article 14:
+Universal health coverage in 'One ASEAN': are migrants included?
+
+Article 15:
+Vaccine Efficacy in Senescent Mice Challenged with Recombinant SARS-CoV Bearing Epidemic and Zoonotic Spike Variants
+
+
+Select an Article Number to Preview (0 to exit):11
+
+Title: Wildlife Trade and Human Health in Lao PDR: An Assessment of the Zoonotic Disease Risk in Markets
+Research Paper ID: 8e549a3356d7bd16111c4f682ae12a21ad4c5633
+Authors: Z Open Access Citation ; Greatorex  S Olson  S Singhalath  S Silithammavong  K Khammavong  A Fine
+Date of Publication: 3/23/2016
+Publishing Journal: PLoS One
+Preview:
+Although the majority of emerging infectious diseases can be linked to wildlife sources, most pathogen spillover events
+to people could likely be avoided if transmission was better understood and practices adjusted to mitigate risk. Wildlif
+e trade can facilitate zoonotic disease transmission and represents a threat to human health and economies in Asia, high
+lighted by the 2003 SARS coronavirus outbreak, where a Chinese wildlife market facilitated pathogen transmission. Additi
+onally, wildlife trade poses a serious threat to biodiversity. Therefore, the combined impacts of Asian wildlife trade,
+sometimes termed bush meat trade, on public health and biodiversity need assessing. From 2010 to 2013, observational dat
+a were collected in Lao PDR from markets selling wildlife, including information on volume, form, species and price of w
+ildlife; market biosafety and visitor origin. The potential for traded wildlife to host zoonotic diseases that pose a se
+rious threat to human health was then evaluated at seven markets identified as having high volumes of trade. At the seve
+n markets, during 21 observational surveys, 1,937 alive or fresh dead mammals (approximately 1,009 kg) were observed for
+ sale, including mammals from 12 taxonomic families previously documented to be capable of hosting 36 zoonotic pathogens
+. In these seven markets, the combination of high wildlife volumes, high risk taxa for zoonoses and poor biosafety incre
+ases the potential for pathogen presence and transmission. To examine the potential conservation impact of trade in mark
+ets, we assessed the status of 33,752 animals observed during 375 visits to 93 markets, under the Lao PDR Wildlife and A
+quatic Law. We observed 6,452 animals listed by Lao PDR as near extinct or threatened with extinction. The combined risk
+s of wildlife trade in Lao PDR to human health and biodiversity highlight the need for a multi-sector approach to effect
+ively protect public health, economic interests and biodiversity.Wildlife Trade and Human Health ...
+
+Select an Article Number to Preview (0 to exit):0
+
+                   What would you like to do?
+            _________________________________________
+           |  1. Search Database                     |
+           |  2. Load Index From Disk                |
+           |  3. Parse & Populate Database / Index   |
+           |  4. Clear Index                         |
+           |  5. Save Index to Disk                  |
+           |  6. Quit                                |
+            _________________________________________
+
+  Select an option:1
+
+Please enter search query:
+zoonotic malaysia wildlife
+
+Article 1:
+Wildlife Trade and Human Health in Lao PDR: An Assessment of the Zoonotic Disease Risk in Markets
+
+Article 2:
+A Review of Zoonotic Infection Risks Associated with the Wild Meat Trade in Malaysia
+
+Article 3:
+Digital Surveillance: A Novel Approach to Monitoring the Illegal Wildlife Trade
+
+Article 4:
+Emerging Infectious Diseases in Free-Ranging Wildlife- Australian Zoo Based Wildlife Hospitals Contribute to National Su
+rveillance
+
+Article 5:
+Summarizing US Wildlife Trade with an Eye Toward Assessing the Risk of Infectious Disease Introduction
+
+Article 6:
+An Overview of the Most Significant Zoonotic Viral Pathogens Transmitted from Animal to Human in Saudi Arabia
+
+Article 7:
+Spillover and pandemic properties of zoonotic viruses with high host plasticity OPEN
+
+Article 8:
+N/A   Research Article Has No Title.
+
+Article 9:
+Department of Public Health
+
+Article 10:
+One Health research and training and government support for One Health in South Asia
+
+Article 11:
+One health -an ecological and evolutionary framework for tackling Neglected Zoonotic Diseases
+
+Article 12:
+Integrated biological-behavioural surveillance in pandemic-threat warning systems
+
+Article 13:
+The Vietnam Initiative on Zoonotic Infections (VIZIONS): A Strategic Approach to Studying Emerging Zoonotic Infectious D
+iseases
+
+Article 14:
+Emerging viral threats in Gabon: health capacities and response to the risk of emerging zoonotic diseases in Central Afr
+ica
+
+Article 15:
+Humans, Other Animals and 'One Health' in the Early Twenty-First Century
+
+
+Select an Article Number to Preview (0 to exit):1
+
+Title: Wildlife Trade and Human Health in Lao PDR: An Assessment of the Zoonotic Disease Risk in Markets
+Research Paper ID: 8e549a3356d7bd16111c4f682ae12a21ad4c5633
+Authors: Z Open Access Citation ; Greatorex  S Olson  S Singhalath  S Silithammavong  K Khammavong  A Fine
+Date of Publication: 3/23/2016
+Publishing Journal: PLoS One
+Preview:
+Although the majority of emerging infectious diseases can be linked to wildlife sources, most pathogen spillover events
+to people could likely be avoided if transmission was better understood and practices adjusted to mitigate risk. Wildlif
+e trade can facilitate zoonotic disease transmission and represents a threat to human health and economies in Asia, high
+lighted by the 2003 SARS coronavirus outbreak, where a Chinese wildlife market facilitated pathogen transmission. Additi
+onally, wildlife trade poses a serious threat to biodiversity. Therefore, the combined impacts of Asian wildlife trade,
+sometimes termed bush meat trade, on public health and biodiversity need assessing. From 2010 to 2013, observational dat
+a were collected in Lao PDR from markets selling wildlife, including information on volume, form, species and price of w
+ildlife; market biosafety and visitor origin. The potential for traded wildlife to host zoonotic diseases that pose a se
+rious threat to human health was then evaluated at seven markets identified as having high volumes of trade. At the seve
+n markets, during 21 observational surveys, 1,937 alive or fresh dead mammals (approximately 1,009 kg) were observed for
+ sale, including mammals from 12 taxonomic families previously documented to be capable of hosting 36 zoonotic pathogens
+. In these seven markets, the combination of high wildlife volumes, high risk taxa for zoonoses and poor biosafety incre
+ases the potential for pathogen presence and transmission. To examine the potential conservation impact of trade in mark
+ets, we assessed the status of 33,752 animals observed during 375 visits to 93 markets, under the Lao PDR Wildlife and A
+quatic Law. We observed 6,452 animals listed by Lao PDR as near extinct or threatened with extinction. The combined risk
+s of wildlife trade in Lao PDR to human health and biodiversity highlight the need for a multi-sector approach to effect
+ively protect public health, economic interests and biodiversity.Wildlife Trade and Human Health ...
+
+Select an Article Number to Preview (0 to exit):0
+
+                   What would you like to do?
+            _________________________________________
+           |  1. Search Database                     |
+           |  2. Load Index From Disk                |
+           |  3. Parse & Populate Database / Index   |
+           |  4. Clear Index                         |
+           |  5. Save Index to Disk                  |
+           |  6. Quit                                |
+            _________________________________________
+
+  Select an option:1
+
+Please enter search query:
+and sarawak zoonotic
+
+Article 1:
+Surveillance for respiratory and diarrheal pathogens at the human-pig interface in Sarawak, Malaysia
+
+Article 2:
+A Review of Zoonotic Infection Risks Associated with the Wild Meat Trade in Malaysia
+
+Article 3:
+viruses Exploiting the Legacy of the Arbovirus Hunters
+
+
+Select an Article Number to Preview (0 to exit):2
+
+Title: A Review of Zoonotic Infection Risks Associated with the Wild Meat Trade in Malaysia
+Research Paper ID: 4925de9bb1feab39f0ffda885f95b59fd0e10cc7
+Authors: Jennifer Cantlay  Daniel Ingram  Anna Meredith
+Date of Publication: 3/22/2017
+Publishing Journal: Ecohealth
+Preview:
+The overhunting of wildlife for food and commercial gain presents a major threat to biodiversity in tropical forests and
+ poses health risks to humans from contact with wild animals. Using a recent survey of wildlife offered at wild meat mar
+kets in Malaysia as a basis, we review the literature to determine the potential zoonotic infection risks from hunting,
+butchering and consuming the species offered. We also determine which taxa potentially host the highest number of pathog
+ens and discuss the significant disease risks from traded wildlife, considering how cultural practices influence zoonoti
+c transmission. We identify 51 zoonotic pathogens (16 viruses, 19 bacteria and 16 parasites) potentially hosted by wildl
+ife and describe the human health risks. TheSuidae and the Cervidae families potentially host the highest number of path
+ogens. We conclude that there are substantial gaps in our knowledge of zoonotic pathogens and recommend performing micro
+bial food safety risk assessments to assess the hazards of wild meat consumption. Overall, there may be considerable zoo
+notic risks to people involved in the hunting, butchering or consumption of wild meat in Southeast Asia, and these shoul
+d be considered in public health
+
+Select an Article Number to Preview (0 to exit):0
+
+                   What would you like to do?
+            _________________________________________
+           |  1. Search Database                     |
+           |  2. Load Index From Disk                |
+           |  3. Parse & Populate Database / Index   |
+           |  4. Clear Index                         |
+           |  5. Save Index to Disk                  |
+           |  6. Quit                                |
+            _________________________________________
+
+  Select an option:6
+
+  Goodbye!
+
+Process finished with exit code 0

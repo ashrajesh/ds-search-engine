@@ -1,0 +1,183 @@
+
+
+
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+              Welcome to the Covid-19 Search Engine!
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+                   What would you like to do?
+            _________________________________________
+           |  1. Search Database                     |
+           |  2. Load Index From Disk                |
+           |  3. Parse & Populate Database / Index   |
+           |  4. Clear Index                         |
+           |  5. Save Index to Disk                  |
+           |  6. Quit                                |
+            _________________________________________
+
+  Select an option:2
+
+Loading Index...
+AVL Tree Loaded.
+Hash Table Loaded.
+Index Loaded.
+
+                   What would you like to do?
+            _________________________________________
+           |  1. Search Database                     |
+           |  2. Load Index From Disk                |
+           |  3. Parse & Populate Database / Index   |
+           |  4. Clear Index                         |
+           |  5. Save Index to Disk                  |
+           |  6. Quit                                |
+            _________________________________________
+
+  Select an option:1
+
+Please enter search query:
+and zoological pigs not bat
+
+Article 1:
+Pathology in Captive Wild Felids at German Zoological Gardens
+
+Article 2:
+Virus taxonomy: the database of the International Committee on Taxonomy of Viruses (ICTV)
+
+Article 3:
+Citation: The Role of Non-animal Origin Feed Ingredients in Transmission of Viral Pathogens of Swine: A Review of Scient
+ific Literature
+
+Article 4:
+Cdrom Archive: A Gateway to Study Camel Phenotypes
+
+Article 5:
+In-cell infection: a novel pathway for Epstein-Barr virus infection mediated by cell-in-cell structures
+
+Article 6:
+BMC Veterinary Research Molecular characterisation of a bovine-like rotavirus detected from a giraffe
+
+Article 7:
+Emerging Viruses in the Felidae: Shifting Paradigms
+
+Article 8:
+Meeting report: the 4 th symposium on animal models of non-human primates in Kunming, Yunnan, China
+
+Article 9:
+Identification of miRNomes reveals ssc-miR-30d-R_1 as a potential therapeutic target for PRRS viral infection OPEN
+
+
+Select an Article Number to Preview (0 to exit):1
+
+Title: Pathology in Captive Wild Felids at German Zoological Gardens
+Research Paper ID: 51c863bc37f993b3da543b91458e3ed5abd9aba9
+Authors: J Open Access Citation ; Junginger  F Hansmann  V Herder  A Lehmbecker  M Peters  M Beyerbach
+Date of Publication: 6/18/2015
+Publishing Journal: PLoS One
+Preview:
+This retrospective study provides an overview on spontaneous diseases occurring in 38 captive wild felids submitted for
+necropsy by German zoological gardens between 2004 and 2013. Species included 18 tigers, 8 leopards, 7 lions, 3 cheetahs
+ and 2 cougars with an age ranging from 0.5 to 22 years. Renal lesions, predominantly tubular alterations (intra-tubular
+ concrements, tubular degeneration, necrosis, intra-tubular cellular debris, proteinaceous casts, dilated tubuli) follow
+ed by interstitial (lympho-plasmacytic inflammation, fibrosis, metastatic-suppurative inflammation, eosinophilic inflamm
+ation) and glomerular lesions (glomerulonephritis, glomerulosclerosis, amyloidosis) were detected in 33 out of 38 animal
+s (87%). Tumors were found in 19 of 38 felids (50%) with 12 animals showing more than one neoplasm. The tumor prevalence
+ increased with age. Neoplasms originated from endocrine (11), genital (8), lympho-hematopoietic (5) and alimentary orga
+ns (4) as well as the mesothelium (3). Most common neoplasms comprised uterine/ovarian leiomyomas (5/2), thyroid adenoma
+s/adenocarcinoma (5/1), pleural mesotheliomas (3), hemangiosarcomas (2) and glossal papillomas (2). Inflammatory changes
+ were frequently encountered in the intestine and the lung. Two young animals displayed metastatic mineralization sugges
+tive of a vitamin D-or calcium intoxication. One tiger exhibited degenerative white matter changes consistent with an en
+tity termed large felid leukoencephalomyelopathy. Various hyperplastic, degenerative and inflammatory changes with minor
+ clinical significance were found in several organs. Summarized, renal lesions followed by neoplastic changes as well as
+ inflammatory changes in lung and gastrointestinal tract represent the most frequent findings in captive wild felids liv
+ing in German zoological
+
+Select an Article Number to Preview (0 to exit):0
+
+                   What would you like to do?
+            _________________________________________
+           |  1. Search Database                     |
+           |  2. Load Index From Disk                |
+           |  3. Parse & Populate Database / Index   |
+           |  4. Clear Index                         |
+           |  5. Save Index to Disk                  |
+           |  6. Quit                                |
+            _________________________________________
+
+  Select an option:7
+
+*** Search Engine Stats ***
+Total Number of Words: 204884
+Total Number of Authors: 30308
+Total Number of Documents Parsed: 11995
+Average Number of Words Indexed per Article: 17
+Average Number of Authors per Article: 2
+Top 50 Most Popular Words in Database:
+    Word      Freq.
+    ----------------
+    cell      314872
+    infect    248227
+    virus     217755
+    protein   168736
+    studi     165152
+    viral     112188
+    express   104621
+    activ     103225
+    result    102589
+    patient   102416
+    diseas    93537
+    data      93155
+    sequenc   92611
+    figur     92509
+    gene      87666
+    sampl     86213
+    human     85453
+    case      83868
+    group     80465
+    time      79749
+    effect    79396
+    detect    78959
+    includ    77250
+    fig       77158
+    respons   76694
+    report    76345
+    increas   75207
+    signific  74837
+    level     73161
+    specif    72531
+    control   72488
+    high      71762
+    rna       71560
+    model     71204
+    test      70101
+    number    68896
+    show      68788
+    day       64147
+    analysi   62976
+    vaccin    62761
+    base      62475
+    immun     61834
+    observ    61205
+    compar    59872
+    antibodi  59709
+    posit     59056
+    addit     56997
+    mice      55287
+    type      55220
+    cov       54286
+
+                   What would you like to do?
+            _________________________________________
+           |  1. Search Database                     |
+           |  2. Load Index From Disk                |
+           |  3. Parse & Populate Database / Index   |
+           |  4. Clear Index                         |
+           |  5. Save Index to Disk                  |
+           |  6. Quit                                |
+            _________________________________________
+
+  Select an option:6
+
+  Goodbye!
+
+Process finished with exit code 0
